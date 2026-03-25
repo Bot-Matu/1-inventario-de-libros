@@ -1,2 +1,2 @@
-# 1-inventario-de-libros
+# inventario-de-libros
 this is a class of fullstack
